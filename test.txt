@@ -1,0 +1,4 @@
+Anna=9
+Ivan=2
+Andrei=1
+Tatiana=2
